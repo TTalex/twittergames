@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+body {
+  background: #e6ecf0;
+  font-family: 'Asap', sans-serif;
+  font-family: 'Roboto', sans-serif;
+
+}
+img {
+  max-width:100%;
+}
